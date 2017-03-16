@@ -1,0 +1,16 @@
+XML:
+XML is a well developed and adopted standard, making it easier to read and understand than proprietary configuration formats.
+
+Also, it's worth understanding that XML serialization is a common tool available in most languages that makes saving object data extremely easy for developers. Why build your own way of saving a hierarchy of complex data when someone else has already done the work for you
+
+
+
+
+Annotations:
+Annotations, a form of metadata, provide data about a program that is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate.
+
+Annotations have a number of uses, among them:
+
+Information for the compiler — Annotations can be used by the compiler to detect errors or suppress warnings.
+Compile-time and deployment-time processing — Software tools can process annotation information to generate code, XML files, and so forth.
+Runtime processing — Some annotations are available to be examined at runtime.
